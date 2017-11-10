@@ -1,0 +1,6 @@
+framework module Pods_Pearson {
+  umbrella header "Pods-Pearson-umbrella.h"
+
+  export *
+  module * { export * }
+}
